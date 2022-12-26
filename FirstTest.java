@@ -1,11 +1,11 @@
-import org.junit.Test;
+import org.junit.Test22;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FirstTest extends WebDriverSettings
 {
-    @Test
+    @Test2
     public void firstTest()
     {
         driver.get("https://loveandlive.ua/");
